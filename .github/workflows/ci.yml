@@ -28,4 +28,4 @@ jobs:
         run: python -c "import main; print('FastAPI importado OK')"
 
       - name: Ejecutar tests
-        run: pytest -q .
+        run: pytest -q 
