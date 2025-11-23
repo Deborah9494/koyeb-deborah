@@ -1,0 +1,1 @@
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=koyeb-deborah&type=git&repository=Deborah9494%2Fkoyeb-deborah&branch=main&run_command=uvicorn+main%3Aapp+--host+0.0.0.0+--port+%24PORT&instance_type=free&regions=fra&instances_min=0&autoscaling_sleep_idle_delay=300)
